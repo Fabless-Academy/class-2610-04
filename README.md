@@ -9,5 +9,5 @@
 - [고서영](https://github.com/Fabless-Academy/Fab04-01-KSY)
 - [김준이](https://github.com/Fabless-Academy/Fab04-02-KJY)
 - [변준우](https://github.com/Fabless-Academy/Fab04-03-BJW)
-- [이상수](https://github.com/Fabless-Academy/Fab04-04-LSS)
+<!-- - [이상수](https://github.com/Fabless-Academy/Fab04-04-LSS) -->
 <!-- - [한우진](https://github.com/Fabless-Academy/Fab04-05-HWJ) -->
